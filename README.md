@@ -1,5 +1,7 @@
 # Mi configuración de st (simple terminal)
 
+![Screenshot](screenshot.png)
+
 Esta es mi configuración del original [suckless simple terminal](https://st.suckless.org/).
 
 + Añadido sistema de copiar y pegar (CTRL+SHIFT+C y CTRL+SHIFT+V)
